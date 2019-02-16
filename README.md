@@ -7,7 +7,7 @@ Our framework generates decentralized network to empower India.
 - Npm Install(only once)
  
 ### Prerequisities:
-- Nodejs and npm with node version 8.11.1
+- Nodejs and npm with node version 8.11.1+
 
 ## Steps:
 - npm install
